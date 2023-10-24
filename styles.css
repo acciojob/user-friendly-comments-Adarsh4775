@@ -8,13 +8,13 @@
 }
 
 /* Style the author section */
-.comment-container .author {
+.comments-container .author {
     font-weight: bold;
     color: #333;
 }
 
 /* Style the comment text */
-.comments-container p {
+.comments-container .comment {
     margin: 5px 0;
 }
 
